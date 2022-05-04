@@ -1,0 +1,9 @@
+{
+  "name": "pwp-blog",
+  "author": "pwp.app",
+  "version": "1.0.0",
+  "dependencies": {
+    "@fragy/oneslot": "^0.1.0",
+    "fragy": "^0.6.2"
+  }
+}
