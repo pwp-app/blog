@@ -3,7 +3,7 @@
   "author": "pwp.app",
   "version": "1.0.0",
   "dependencies": {
-    "@fragy/oneslot": "^0.1.3",
-    "fragy": "^0.6.4"
+    "@fragy/oneslot": "^0.1.8",
+    "fragy": "^0.8.5"
   }
 }
